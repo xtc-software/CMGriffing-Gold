@@ -10,3 +10,6 @@ https://www.ycombinator.com/
 
 ## Acquire.com:
 https://acquire.com/
+
+## Presentation Package (Reveal.js + Pandoc)
+https://pandoc.org/ + https://revealjs.com/
